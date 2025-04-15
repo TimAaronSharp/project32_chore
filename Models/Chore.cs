@@ -1,6 +1,6 @@
 namespace project32_chore.Models;
 
-public class project32_chore
+public class Chore
 {
   public int Id { get; set; }
   public string description { get; set; }
